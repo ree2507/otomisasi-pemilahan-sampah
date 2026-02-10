@@ -1,6 +1,3 @@
 venv/
 archive.zip
-datasets/
-__pycache__/
-.DS_Store
-*.pt
+dataset/
